@@ -1,1 +1,10 @@
-bài tập đoán số tuần 1 + bài tập giả lập máy tính tuần 1 
+1. D) 6
+2. C) 7
+3. A) 1 2 3 4 5
+4. C) {1, 4, 2, 5, 8}
+5. A) condition = true
+6. C) 24
+7. C) -1
+8. B) 10
+9. C) 5, 6
+10. B) 8
