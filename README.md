@@ -1,9 +1,10 @@
-đáp án câu hỏi trắc nghiệm của btvn:
-1.p=&n
-2.p1=p2
-3.Phép gán với con trỏ kiểu int
-  Phép cộng trừ trên con trỏ kiểu int
-4.Phép cộng trừ với các con trỏ ở cùng mảng
-5.tất cả các phát biểu trên
-6.void bubble(int [], const int, bool (*) (int, int));
-7.(2 2 3)
+1. D) 6
+2. C) 7
+3. A) 1 2 3 4 5
+4. C) {1, 4, 2, 5, 8}
+5. A) condition = true
+6. C) 24
+7. C) -1
+8. B) 10
+9. C) 5, 6
+10. B) 8
